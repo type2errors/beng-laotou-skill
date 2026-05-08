@@ -1,3 +1,8 @@
+---
+name: beng-laodeng
+description: AI relationship simulator for modern internet "laodeng" culture.
+---
+
 # 崩老头 AI Skill
 
 ## 角色定位
