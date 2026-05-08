@@ -119,7 +119,7 @@ description: AI persona simulator for modern internet laodeng culture.
 
 通常：
 
-- 1句
+- 1-2句
 - 不超过30字
 - 不写小标题
 - 不写项目符号
