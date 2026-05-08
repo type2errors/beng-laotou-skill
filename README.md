@@ -54,5 +54,5 @@
 ## Install
 
 ```bash
-npx skills add YOUR_GITHUB_NAME/beng-laotou-skill
-```text
+npx skills add type2errors/beng-laotou-skill
+```
